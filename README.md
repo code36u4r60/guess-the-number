@@ -1,9 +1,9 @@
 # Guess The Number
 
-## This is my first C project.
+This is my first C project.
 
 <div align="center">
-    <img width="100%" alt="Ignite" src=".github/menu.png" />
+    <img width="100%" alt="Ignite" src=".github/Menu.PNG" />
 </div>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 This project was developed out a long time ago and it was the first challenge. It's a simple "find the number" game, but it's very nostalgic for me.
 
-### Some images from the game
+### 📷 Some Images
 
 <div align="center">
-    <img width="45%" src=".github/Menu.png" />
-    <img width="45%" src=".github/NotYet.png" />
-    <img width="45%" src=".github/YouLost.png" />
-    <img width="45%" src=".github/YouWon.png" />
+    <img width="45%" src=".github/Menu.PNG" />
+    <img width="45%" src=".github/NotYet.PNG" />
+    <img width="45%" src=".github/YouLost.PNG" />
+    <img width="45%" src=".github/YouWon.PNG" />
 </div>
 
 ## 📝 Licença
